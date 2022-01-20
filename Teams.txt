@@ -1,0 +1,5 @@
+Driver1|Location1|Team1|1|1|0|65|4
+Driver2|Location2|Team2|1|0|1|62|4
+Driver3|Location3|Team3|1|1|1|68|4
+Driver4|Location4|Team4|1|2|0|73|4
+Driver5|Location5|Team5|0|0|2|52|4
