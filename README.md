@@ -1,6 +1,7 @@
-# Formula-One-Championship Management System
+# Formula-One-Championship Race Management System
+- The project has been done in order fulfill requirements of the 2nd year OOP module Coursework.
 
-## Management System with different functionalites 
+## Management System Console application/ GUI Interface with different functionalites 
 
 - createDriver    - Create a new driver to the Championship race
 - deleteDriver    - Delete an existing driver from the championship
