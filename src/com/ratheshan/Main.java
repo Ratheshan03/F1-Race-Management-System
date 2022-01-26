@@ -17,7 +17,7 @@ public class Main {
             System.out.print("Choose Your Option: ");
             String option = scanner.nextLine();
             option = option.toUpperCase();
-            // Different options for various functions
+            // Different menu options for various functions
             switch (option) {
                 case "A":
                     f1Manager.createDriver();

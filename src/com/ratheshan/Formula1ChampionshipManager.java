@@ -600,7 +600,7 @@ public class Formula1ChampionshipManager implements ChampionshipManager {
         }
 
         // Sets the driver -> according to the position's probability
-        // Saving the driver names according to the probability percentage no of times in the Arraylist
+        // Saving the driver names according to the probability percentage no of times (percentage = no of times) in the Arraylist
         ArrayList<String> dProbability = new ArrayList<>();
         for (int i = 0; i < sPosition.size(); i++) {
             if (sPosition.get(i) == 1) {
